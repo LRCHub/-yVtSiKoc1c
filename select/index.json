@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "VIOLET LINE",
+  "base_artist": "Roselia",
+  "createdAt": "2025-12-10T06:02:38.425207Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "VIOLET LINE",
+      "artist": "Roselia",
+      "has_synced": true,
+      "path": "select/01_VIOLET_LINE_Roselia.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "VIOLET LINE",
+      "artist": "Roselia",
+      "has_synced": false,
+      "path": "select/02_VIOLET_LINE_Roselia.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "VIOLET LINE",
+      "artist": "Roselia",
+      "has_synced": true,
+      "path": "select/03_VIOLET_LINE_Roselia.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "VIOLET LINE",
+      "artist": "Roselia",
+      "has_synced": false,
+      "path": "select/pl_01_VIOLET_LINE_Roselia.txt"
+    }
+  ]
+}
